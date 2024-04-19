@@ -1,0 +1,12 @@
+file_format: "1"
+id: SPLITDB
+name: SPLITDB
+type: shield
+url: https://github.com/plumminty/SplitDB_new/
+requires: [Nice!Nano!v2]
+exposes:
+features:
+  - keys
+siblings:
+  - SPLITDB_LEFT
+  - SPLITDB_RIGHT
