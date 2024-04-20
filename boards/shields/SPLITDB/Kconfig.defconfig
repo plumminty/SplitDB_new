@@ -1,7 +1,7 @@
 if SHIELD_SPLITDB_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Split DB"
+    default "splitdb"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
