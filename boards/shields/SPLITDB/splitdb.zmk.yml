@@ -3,7 +3,7 @@ id: splitdb
 name: splitdb
 type: shield
 url: https://github.com/plumminty/SplitDB_new/
-requires: [pro_micro]
+requires: [nice_nano_v2]
 exposes:
 features:
   - keys
