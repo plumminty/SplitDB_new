@@ -6,7 +6,7 @@
 # distinguish build outputs from each other:
 #
 # board: [ "nice_nano_v2" ]
-# shield: [ "corne_left", "corne_right" ]
+# shield: [ "SPLITDB_left", "SPLITDB_right" ]
 # include:
 #   - board: nice_nano_v2
 #     shield: SPLITDB
